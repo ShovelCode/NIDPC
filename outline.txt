@@ -1,0 +1,21 @@
+The purpose of this project is to develop a National Code for Code similar to the Federal Motor Carrier Safety Administration's green book for trucking,
+or the National Electrical Code (NEC).
+
+The rules should be such that all programming jobs can be inspected by a third party and multiple teams can look at the same system and know how to follow
+it from a standard "blueprint". UML is kind-of like this. Again, this type of regulation is yet-to-be-developed. Even the basic
+principlesa are open to debate.
+
+What I think so far:
+
+Clean code
+ISO standards througout
+  Would this force open source? Would this be problematic?
+Type-safety standards (sorry JavaScripters)
+100% code coverage by tests
+inspections of the tests
+
+Problems right off the bat:
+Should there be a list of approved languages, and thus all information systems written with other systems now deemed "out-of-code"?
+Should there bea list of approved editors? Emacs and Vi mgith shine here.
+Mandatory POSIX compliant Unix operating systems only?
+
